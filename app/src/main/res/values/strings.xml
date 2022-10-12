@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Modelirovanie</string>
+    <string name="name">Моделирование</string>
+    <string name="bt1">Лабараторная 1</string>
+    <string name="copyright">\u00A9 Мартынов</string>
+    <string name="btnEx">Exit</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="eylerBtn">Eyler method</string>
+    <string name="rangekut2Btn">Rangekut 2</string>
+    <string name="rangekut4Btn">Rangekut 4</string>
+    <string name="bt2">Лабараторная 2</string>
+    <string name="bt3">Лабараторная 3</string>
+    <string name="bt_4">Лабараторная 4</string>
+</resources>
